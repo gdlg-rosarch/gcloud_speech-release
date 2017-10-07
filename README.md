@@ -1,3 +1,29 @@
+## gcloud_speech (kinetic) - 0.0.3-1
+
+The packages in the `gcloud_speech` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release --rosdistro kinetic --track kinetic gcloud_speech` on `Sat, 07 Oct 2017 14:48:50 -0000`
+
+These packages were released:
+- `gcloud_speech`
+- `gcloud_speech_msgs`
+- `gcloud_speech_utils`
+
+Version of package(s) in repository `gcloud_speech`:
+
+- upstream repository: https://github.com/CogRob/gcloud_speech.git
+- release repository: https://github.com/CogRobRelease/gcloud_speech-release.git
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.3-0`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.6`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## gcloud_speech (indigo) - 0.0.3-0
 
 The packages in the `gcloud_speech` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release --rosdistro indigo --track indigo gcloud_speech` on `Sat, 07 Oct 2017 14:46:03 -0000`
